@@ -12,7 +12,6 @@ def literal_aoh
  literal_aoh = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
 end
 
-
 def aoh_lookup(aoh, row, key)
   aoh_lookup = aoh[row][key]
 end
